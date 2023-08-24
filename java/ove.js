@@ -13,5 +13,7 @@ console.log(img);
 const article = document.querySelector("article");
 console.log(article);
 
+const article2 = document.querySelector("article:nth-child(2)");
+console.log(article2);
 
 
